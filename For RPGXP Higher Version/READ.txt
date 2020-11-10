@@ -1,0 +1,9 @@
+If your project is not working go to the folder of 
+the version of rpgxp you have and copy the game.rxproject from
+the version folder to the place where the game.rxproject is
+there and replace it
+
+Or 
+
+Try to Open it with notepad and change to the version you 
+have RPGXP
