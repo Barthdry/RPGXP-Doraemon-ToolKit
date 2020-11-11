@@ -11,6 +11,8 @@ Current Version: 0.02
 
 0.02 = Tileset was partially set with all the things working
 
+0.03 = Improvised tileset with better performance 
+
 
 
 ToolKit Makers:-
