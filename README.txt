@@ -11,7 +11,9 @@ Current Version: 0.02
 
 0.02 = Tileset was partially set with all the things working
 
-0.03 = Improvised tileset with better performance 
+0.03 = Improvised tileset with better performance
+
+0.04 = Ideas Added 
 
 
 
@@ -21,3 +23,4 @@ Sir Beef Noodles (Doraemon Tileset, Char)
 Enterbrain (Extracted from rpgxp resources)
 Barthdry (Did Tileset Setting and Making)
 SkinPack (Windows Skin)
+Fanon Wiki(Ideas)
