@@ -7,13 +7,13 @@ rpgxp.
 
 
 Version History
-Current Version: 0.02
-
-0.02 = Tileset was partially set with all the things working
+Percentage Completed = 0.6%
+Current Version: 0.05
 
 0.03 = Improvised tileset with better performance
+0.04 = Ideas Added
+0.05 = Half tileset completed 
 
-0.04 = Ideas Added 
 
 
 
